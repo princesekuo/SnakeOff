@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-
+//11111
     // Used to load the 'native-lib' library on application startup.
     static {
         System.loadLibrary("native-lib");
